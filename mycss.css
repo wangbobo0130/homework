@@ -2,7 +2,7 @@ body{
 	width: 1300px; /*寬度*/
 	height: 1400px; /*高度*/
 	margin: auto;
-	background-image: url("../images/bg_html.jpg");
+	background: url("../images/bg_html.jpg");
 	/*restart counter-reset:*/ 
 }
 .header{
@@ -15,7 +15,7 @@ header{
 	margin: 30px 20px;
 }
 .logo{
-	background-image: url("../images/logo.png");
+	background: url("../images/logo.png");
 	width: 171px; /*寬度*/
 	height: 81px; /*高度*/
 	float: left;  /*浮動元素*/
