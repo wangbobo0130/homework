@@ -1,0 +1,98 @@
+body{
+	width: 1300px; 
+	height: 1400px; 
+	margin: auto;
+	background-image: url("../images/bg_html.jpg");
+	/*restart counter-reset:*/ 
+}
+.header{
+	width: 960px;
+	margin: auto;
+	text-align: center;
+}
+header{
+	height: 85px;
+	margin: 30px 20px;
+}
+.logo{
+	background-image: url("../images/logo.png");
+	width: 171px; 
+	height: 81px; 
+	float: left;  
+}
+.socially i{
+	display: inline-block;
+	float: right;
+}
+.tweet {
+	background-image: url("../images/dot_tweet.png");
+	width: 23px;
+	height: 23px; 
+}
+.facebook {
+	background-image: url("../images/dot_facebook.png");
+	width: 23px; 
+	height: 23px; 
+}
+li{
+	display: inline-block;
+	padding-left: 40px;
+}
+.about{
+	color:blue;
+}
+.slider{
+	height: 415px;
+	margin: 0px 20px;
+	background-color: gray;
+}
+.slider img{
+	float:left;
+}
+.special{
+	text-align: left;
+	height: 350px;
+	margin: 20px 40px;
+	float: right;
+}
+.special h1{
+	color: #87CEFA;
+}
+.button{
+	display: inline-block;
+	margin: 10px 0;
+	background-color: #696969;
+	color: #F0FFFF;
+	border: none;
+	padding: 20px 40px;
+}
+.fitness{
+	font-family: sans-serif;
+	line-height: 1.8em;
+	height: 120px;
+	margin: 40px 20px;
+	background-color:white;
+}
+.fitness p{
+	height: 80px;
+	margin: 20px 40px;
+	text-align: left;
+}
+.free{
+	color: #87CEFA;
+}
+.latest{
+	height: 500px;
+	margin: 30px 20px;
+	background-color: white;
+}
+.latest h1{
+	height: 40px;
+	width: 200px;
+	margin: 20px 40px;
+	text-align: left;
+}
+.latest article {
+    float: left;
+    width: 550px;
+}
