@@ -2,7 +2,7 @@ body{
 	width: 1300px; /*寬度*/
 	height: 1400px; /*高度*/
 	margin: auto;
-	background: url("../images/bg_html.jpg");
+	background-image: url("../images/bg_html.jpg");
 	/*restart counter-reset:*/ 
 }
 .header{
@@ -15,7 +15,7 @@ header{
 	margin: 30px 20px;
 }
 .logo{
-	background: url("../images/logo.png");
+	background-image: url("../images/logo.png");
 	width: 171px; /*寬度*/
 	height: 81px; /*高度*/
 	float: left;  /*浮動元素*/
@@ -25,12 +25,12 @@ header{
 	float: right;
 }
 .tweet {
-	background: url("../images/dot_tweet.png");
+	background-image: url("../images/dot_tweet.png");
 	width: 23px; /*寬度*/
 	height: 23px; /*高度*/
 }
 .facebook {
-	background: url("../images/dot_facebook.png");
+	background-image: url("../images/dot_facebook.png");
 	width: 23px; /*寬度*/
 	height: 23px; /*高度*/
 }
