@@ -2,7 +2,7 @@ body{
 	width: 1300px; 
 	height: 1400px; 
 	margin: auto;
-	background-image: url("../Desktop/版型一/imges/bg_html.jpg");
+	background-image: url("../imges/bg_html.jpg");
 	/*restart counter-reset:*/ 
 }
 .header{
