@@ -31,7 +31,8 @@ header{
 .facebook {
 	background: url("../images/dot_facebook.png");
 	width: 23px; 
-	height: 23px; 
+	height: 23px;
+	float: left; 
 }
 li{
 	display: inline-block;
