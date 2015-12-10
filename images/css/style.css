@@ -86,6 +86,12 @@ li{
 .free{
 	color: #87CEFA;
 }
+.page1{
+	background: url("../images/page1-img1.jpg");
+	width: 185px;
+	height: 140px; 
+	float: left;
+}
 .latest{
 	height: 500px;
 	margin: 30px 20px;
