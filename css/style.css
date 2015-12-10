@@ -32,7 +32,6 @@ header{
 	background: url("../images/dot_facebook.png");
 	width: 23px; 
 	height: 23px;
-	float: left; 
 }
 li{
 	display: inline-block;
@@ -50,6 +49,7 @@ li{
 	background: url("../images/slider-1.png");
 	width: 640px;
 	height: 415px; 
+	float: left; 
 }
 .slider img{
 	float:left;
