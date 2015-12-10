@@ -2,7 +2,7 @@ body{
 	width: 1300px; 
 	height: 1400px; 
 	margin: auto;
-	background-image: url("imges/bg_html.jpg");
+	background: url("../imges/bg_html.jpg");
 	/*restart counter-reset:*/ 
 }
 .header{
@@ -15,7 +15,7 @@ header{
 	margin: 30px 20px;
 }
 .logo{
-	background-image: url("../images/logo.png");
+	background: url("../images/logo.png");
 	width: 171px; 
 	height: 81px; 
 	float: left;  
@@ -25,12 +25,12 @@ header{
 	float: right;
 }
 .tweet {
-	background-image: url("../images/dot_tweet.png");
+	background: url("../images/dot_tweet.png");
 	width: 23px;
 	height: 23px; 
 }
 .facebook {
-	background-image: url("../images/dot_facebook.png");
+	background: url("../images/dot_facebook.png");
 	width: 23px; 
 	height: 23px; 
 }
