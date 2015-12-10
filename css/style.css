@@ -2,8 +2,7 @@ body{
 	width: 1300px; 
 	height: 1400px; 
 	margin: auto;
-	background: url("../imges/bg_html.jpg");
-	
+	background: url("../images/bg_html.jpg");
 }
 .header{
 	width: 960px;
