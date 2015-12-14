@@ -8,6 +8,7 @@ body{
 	width: 960px;
 	margin: auto;
 	text-align: center;
+
 }
 header{
 	height: 85px;
@@ -77,14 +78,34 @@ li{
 	height: 120px;
 	margin: 40px 20px;
 	background-color:white;
+	border: 1px solid white;
 }
 .fitness p{
 	height: 80px;
-	margin: 20px 40px;
+	margin: 20px 30px;
 	text-align: left;
 }
 .free{
 	color: #87CEFA;
+}
+.latest{
+	height: 500px;
+	margin: 30px 20px;
+	background-color: white;
+	border: 1px solid white;
+}
+.latest h1{
+	height: 40px;
+	width: 200px;
+	margin: 30px 40px;
+	font-size: 32px;
+	text-align: left;
+}
+.exerci{
+	width: 580px;
+	height: 140px; 
+	margin: 20px 40px;
+	
 }
 .page1{
 	background: url("../images/page1-img1.jpg");
@@ -92,18 +113,27 @@ li{
 	height: 140px; 
 	float: left;
 }
-.latest{
-	height: 500px;
-	margin: 30px 20px;
-	background-color: white;
-}
-.latest h1{
-	height: 40px;
-	width: 200px;
-	margin: 20px 40px;
+.exerci p{
+	float: right;
+	width: 365px;
+	line-height: 1.3em;
 	text-align: left;
+	
 }
-.latest article {
-    float: left;
-    width: 550px;
+.duis{
+	width: 580px;
+	height: 140px; 
+	margin: 60px 40px 0px ;
+}
+.page2{
+	background: url("../images/page1-img2.jpg");
+	width: 185px;
+	height: 140px; 
+	float: left;
+}
+.duis p{
+	float: right;
+	width: 365px;
+	text-align: left;
+	line-height: 1.3em;
 }
